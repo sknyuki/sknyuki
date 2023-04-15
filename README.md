@@ -2,7 +2,7 @@
 ![sknyuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=sknyuki&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sknyuki)](https://solved.ac/sknyuki/)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sknyuki&layout=Demo&theme=tokyonight)-->
-# 💪Skills
+# 💪learning about
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
