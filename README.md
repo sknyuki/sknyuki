@@ -1,5 +1,6 @@
 ### SEKINE YUKI 👋
 
+# ⚒️ my stats
 ![sknyuki's github stats](https://github-readme-stats.vercel.app/api?username=sknyuki&show_icons=true&theme=tokyonight)
 
 # 🛠  Algorithmic Capabilities(BOJ)
