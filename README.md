@@ -1,6 +1,8 @@
 ### SEKINE YUKI 👋
 
 ![sknyuki's github stats](https://github-readme-stats.vercel.app/api?username=sknyuki&show_icons=true&theme=tokyonight)
+
+# 🛠  Algorithmic Capabilities(BOJ)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sknyuki)](https://solved.ac/sknyuki/)
 
 # 💪learning about
