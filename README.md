@@ -5,6 +5,7 @@
 
 # 🛠  Algorithmic Capabilities(BOJ)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sknyuki)](https://solved.ac/sknyuki/)
+![Solved.ac Profile](http://mazandi.herokuapp.com/api?handle=sknyuki&theme=dark)
 
 # 💪learning about
 ### Platforms & Languages
