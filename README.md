@@ -26,6 +26,7 @@
 ![IntelliJ](https://img.shields.io/badge/intellij%20idea-7D00FF.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=white)
 ![hibernate](https://img.shields.io/badge/hibernate-59666C.svg?&style=for-the-badge&logo=hibernate&logoColor=white)
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
+![postman](https://img.shields.io/badge/postman-FF6C37?&style=for-the-badge&logo=postman&logoColor=white)
 
 
 
