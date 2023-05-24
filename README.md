@@ -3,9 +3,9 @@
 # 🧰 Introduce
 about me
 
-🇯🇵 [JP Portfolio](https://www.notion.so/Ordinary-Code-JAPAN-3d6c7cea37ae49628ec72ab0d12e38a0) 
+🇯🇵 [JP Portfolio](https://juvenile-eustoma-799.notion.site/Ordinary-Code-JAPAN-3d6c7cea37ae49628ec72ab0d12e38a0) 
 
-🇰🇷 [KR Portfolio](https://www.notion.so/Ordinary-Code-korea-bd7289d458fd451d91ad0cdd009f60f0)
+🇰🇷 [KR Portfolio](https://juvenile-eustoma-799.notion.site/Ordinary-Code-korea-bd7289d458fd451d91ad0cdd009f60f0)
 
 # ⚒️ my stats
 ![sknyuki's github stats](https://github-readme-stats.vercel.app/api?username=sknyuki&show_icons=true&theme=tokyonight)
